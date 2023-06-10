@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web and software Development ...
 - 🌱 I’m currently learning on Zindua school Software Development Course
 - 💞️ I’m looking to collaborate on software devlopment learning journey
-- 📫 You can reach me @ pettermacharia343@gmail.com or through whatsapp @+2547159890719
+- 📫 You can reach me @ pettermacharia343@gmail.com or through whatsapp @+254715990719
 
 <!---
 petermac343/petermac343 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
