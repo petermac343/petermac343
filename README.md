@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @petermac343
-- 👀 I’m interested in Web and software Development ...
-- 🌱 I’m currently learning on Zindua school Software Development Course
-- 💞️ I’m looking to collaborate on software devlopment learning journey
+- 👀 I’m interested in Web and Software Development ...
+- 💞️ I’m looking to collaborate on a software development learning journey
 - 📫 You can reach me @ pettermacharia343@gmail.com or through whatsapp @+254715990719
 
 <!---
